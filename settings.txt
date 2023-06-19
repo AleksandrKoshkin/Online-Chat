@@ -1,4 +1,4 @@
 SERVER_PORT = 8801
 SERVER_HOST = 127.0.0.1
-SERVER_LOG = server
-CLIENT_LOG = client
+SERVER_LOG = server.log
+CLIENT_LOG = client.log
